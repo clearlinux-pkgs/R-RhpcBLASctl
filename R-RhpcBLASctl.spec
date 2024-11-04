@@ -7,7 +7,7 @@
 #
 Name     : R-RhpcBLASctl
 Version  : 0.23.42
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/RhpcBLASctl_0.23-42.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/RhpcBLASctl_0.23-42.tar.gz
 Summary  : Control the Number of Threads on 'BLAS'
